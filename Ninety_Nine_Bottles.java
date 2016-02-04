@@ -12,7 +12,7 @@ public class Ninety_Nine_Bottles {
             }
             System.out.println(i + word + " of beer on the wall, " + i + word + " of beer");
             System.out.println("take one down, pass it around, " + bottles + word + " of beer on the wall");
-
+	/*this is a working program*/
         }
         System.out.println("No more bottles of beer on the wall.");
     }
